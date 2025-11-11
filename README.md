@@ -15,4 +15,5 @@ Analyzing the equitable distribution of neighborhood amenities is important beca
 ### Updated Research Question and Hypothesis:
 How do the size and distribution of neighborhood amenities in San Francisco relate to the socioeconomic and racial demographics of neighborhoods at the census-tract level for the most recent available data (most are 2023 or updated as needed), and what are the quantifiable disparities in access?
 
-To learn more about our project, goals, process, and scope, check out the `report.pdf` in this repo.
+To learn more about our project, goals, process, and scope, check out the `group_15_midterm_report.pdf` in this repo.
+
