@@ -2,7 +2,7 @@ python>=3.10
 pandas
 numpy
 geopandas
-matplotlib
+matplotlib>=3.5
 plotly
 census
 us
@@ -21,3 +21,6 @@ nbformat>=4.2
 folium
 mapclassify
 scikit_learn
+widgetsnbextension
+jupyterlab_widgets
+ipywidgets
