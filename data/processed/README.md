@@ -1,2 +1,2 @@
 ### Data Processing Steps
-The steps we took to reach this processed data are outlined in the notebooks `city_facilities_data_clean_analysis.ipynb` and `recreation_parks_data_clean_analysis.ipynb`.`
+The steps we took to reach this processed data are outlined in the notebooks in the `notebooks` folder. In general, we formatted data, fixed discrepancies in data types, handled missing data, and performed any necessary merges. Our steps for each data output are in the respective notebooks, as well as the reasons why we handled missing data as we did or any other steps we did.
