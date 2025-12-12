@@ -22,3 +22,4 @@ scikit_learn
 widgetsnbextension
 jupyterlab_widgets
 ipywidgets
+matplotlib.ticker
