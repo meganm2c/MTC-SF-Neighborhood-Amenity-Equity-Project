@@ -2,6 +2,8 @@
 
  By: Megan Hu and Neha Suresh
 
+ [Project ArcGIS StoryMap](https://storymaps.arcgis.com/stories/ebb93a83770e4c8e959ff381e525a03d)
+
 ### Defining Amenities:
 For this project, we define amenities as desirable features and services that enhance the quality of life, comfort, and convenience for residents in neighborhoods. To manage this broad definition, we categorize amenities as follows:
 1) Public services: Schools, libraries, public transportation, and healthcare facilities like hospitals and clinics
@@ -18,5 +20,6 @@ Analyzing the equitable distribution of neighborhood amenities is important beca
 How do the size and distribution of neighborhood amenities in San Francisco relate to the socioeconomic and racial demographics of neighborhoods at the census-tract level for the most recent available data (most are 2023 or updated as needed), and what are the quantifiable disparities in access?
 
 To learn more about our project, goals, process, and scope, check out the `group_15_midterm_report.pdf` in this repo.
+
 
 
